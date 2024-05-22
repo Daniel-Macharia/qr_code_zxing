@@ -15,7 +15,7 @@ public class QRGenerator {
     public static void main(String[] args) {
         
         String data = "0712696965";
-        String destination = "C:\\Users\\AdminAttachee\\Documents\\NetBeansProjects\\QRGenerator\\src\\qr_code.jpg";
+        String destination = "qr_code.jpg";
         
         try
         {
